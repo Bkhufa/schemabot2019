@@ -1,11 +1,3 @@
-Bot buat Schematics: NST 2019
-
-
-
-
-
-
-
 Welcome to Glitch
 =================
 
